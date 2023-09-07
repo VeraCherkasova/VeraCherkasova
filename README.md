@@ -12,7 +12,8 @@ My name is Vera, glad to see you here!
 ### :woman_technologist: About Me :
 🐣 I’m currently learning Java
 
-👨‍💻 2.5 years of experience in a Big 4 company
+📔 2.5 years of experience in a Big 4 company
+
 
 
 ---
